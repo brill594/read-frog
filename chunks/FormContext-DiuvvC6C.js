@@ -1,0 +1,1 @@
+import{r as e}from"./chunk-CxlSJoUg.js";import{u as t}from"./react-dom-Bm1EAsul.js";import{Zn as n}from"./tooltip-BYAp904U.js";var r=e(t()),i=r.createContext({formRef:{current:{fields:new Map}},errors:{},clearErrors:n,validationMode:`onSubmit`,submitAttemptedRef:{current:!1}});function a(){return r.useContext(i)}export{a as t};

@@ -1,0 +1,1 @@
+import{St as e}from"./react-dom-Bm1EAsul.js";var t=`Read Frog`,n=e.runtime.getManifest().version;export{n,t};

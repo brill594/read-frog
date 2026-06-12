@@ -1,0 +1,1 @@
+import{r as e}from"./chunk-CxlSJoUg.js";import{u as t}from"./react-dom-Bm1EAsul.js";function n(e,t=-(2**53-1),n=2**53-1){return Math.max(t,Math.min(e,n))}var r=e(t()),i=r.createContext(void 0),a={disableStyleElements:!1};function o(){return r.useContext(i)??a}export{n,o as t};
